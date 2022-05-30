@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am Nisha Prakash, an Electrical Engineering Undergraduate from NIT Surat. I will be graduating in 2023.
 
 - 🔭 I’m currently working on Data Structures and Algorithms.
 - 🌱 I’m currently learning Web Development.
